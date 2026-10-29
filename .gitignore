@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset files (strictly prohibited from Git submission by course rules)
+data/dataset/
+x_train.csv
+x_test.csv
+y_train.csv
+sample_submission.csv
+data/*.zip
+*.zip
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# OS / Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.autosave.xopp
+*.xopp.bak
